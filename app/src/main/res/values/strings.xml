@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kakao 알림 프로브</string>
+    <string name="listener_label">Kakao 알림 프로브 (알림 구조 분석)</string>
+    <string name="status_granted">알림 접근: 허용됨 ✅</string>
+    <string name="status_denied">알림 접근: 허용 안 됨 ❌ — 아래 버튼으로 허용하세요</string>
+    <string name="open_listener_settings">알림 접근 권한 설정 열기</string>
+    <string name="open_battery_settings">배터리 최적화 예외 설정 열기</string>
+    <string name="refresh">새로고침</string>
+    <string name="share">내보내기</string>
+    <string name="clear">전체 삭제</string>
+    <string name="count_format">저장된 덤프: %1$d건 (최근 %2$d건 표시)</string>
+    <string name="empty">아직 수집된 카카오톡 알림이 없습니다.\n대상 채팅방을 닫은 상태에서 메시지를 받아보세요.</string>
+    <string name="clear_confirm">저장된 덤프를 모두 삭제할까요?</string>
+    <string name="share_empty">내보낼 덤프가 없습니다.</string>
+</resources>
